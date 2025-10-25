@@ -18,7 +18,7 @@ main {
 }
 
 header {
-    background-color: #007bff;
+    background-color: #E09412;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -95,7 +95,7 @@ section {
 }
 
 footer {
-    background-color: #333;
+    background-color: #E0C061;
     color: white;
     text-align: center;
     padding: 15px 0;
